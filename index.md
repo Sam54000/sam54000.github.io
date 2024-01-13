@@ -16,5 +16,6 @@ Enjoy!
 The name comes from a french expression "Système D" for "Système débrouille" which is a big part of the french culture. It means that, when facing challenges, you can put together a solution with what is directly available to you. As a former military (Gendarme) I heard, used and applied this term even more than the average french person. If "Système D" was a fictional character, it would be the great and amazing MacGyver. Here are some nice resources that explain very well "Système D":
 - ["Système D" from the blog "FranceSays"](https://francesays.com/2015/04/09/systeme-d/)
 - [definition from the Collins dictionnary](https://www.collinsdictionary.com/dictionary/french-english/système-d)
+
 Yeah it's cool and all but WHY choosing this term? Well because *Système D* is, or HAS to be one of the main traits (if not THE MAIN trait) of an engineer (I will go deeper on what I think a real engineer is in a future post). An engineer is not someone who has fancy diplomas, He/She is someone who adapt to any situations, He/She is a MacGyver, and this is what I want to communicate through the name.
 
