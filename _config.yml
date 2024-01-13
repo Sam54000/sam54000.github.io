@@ -1,5 +1,6 @@
-theme: minima
-skin: dark
+remote_theme: jekyll/minima
+minima:
+    skin: dark
 title: SystemD
 author: Samuel Louviot, PhD
 description: A place where I can put my thoughts, some tips and advice in neural engineering and other stuff.
