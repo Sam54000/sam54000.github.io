@@ -8,8 +8,8 @@ github_username: Sam54000
 author: Samuel Louviot, PhD
 description: A place where I can put my thoughts, some tips and advice in neural engineering and other stuff.
 header_pages:
-  - home
-  - about.md
-  - contact.md
-  - blog.md
+  - Home.md
+  - About.md
+  - Contact.md
+  - Blog.md
 

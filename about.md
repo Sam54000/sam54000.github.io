@@ -12,7 +12,7 @@ I am passionate about science and engineering, learning, coding, soldering, play
 This blog is to put down somewhere, like a bottle in the sea (metaphorically, don't put bottles in the sea please), my humble thoughts and perspective on topics such as neural engineering, science and more - with the hope that one day this blog will help someone.
 
 Enjoy!
-# Why "SystemD"?
+# What is this website's name "SystemD"?
 The name comes from a french expression "Système D" for "Système débrouille" which is a big part of the french culture. It means that, when facing challenges, you can put together a solution with only the few resssources that are available to you. As a former military (Gendarme) I heard, used and applied this term even more than the average french person. If "Système D" was a fictional character, it would be the great and amazing MacGyver. Here are some nice resources that explain very well "Système D":
 - ["Système D" from the blog "FranceSays"](https://francesays.com/2015/04/09/systeme-d/)
 - [definition from the Collins dictionnary](https://www.collinsdictionary.com/dictionary/french-english/système-d)

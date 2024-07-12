@@ -1,4 +1,3 @@
 ---
-title: blog
+title: Blog
 ---
-Test
